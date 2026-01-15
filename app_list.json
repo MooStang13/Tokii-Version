@@ -1,23 +1,20 @@
-{
-  "apps": [
-    {
-      "name": "TokiiTracker",
-      "id": "tokiitracker",
-      "version": "1",
-      "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiitracker/tokiitracker.bin"
-    },
-    {
-      "name": "TokiiWeather",
-      "id": "tokiiweather",
-      "version": "1",
-      "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiiweather/tokiiweather.bin"
-    },
-    {
-      "name": "TokiiAxeStats",
-      "id": "tokiiaxestats",
-      "version": "1",
-      "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiiaxestats/tokiiaxestats.bin"
-    }
-  ]
-}
-
+[
+  {
+    "name": "TokiiTracker",
+    "id": "tokiitracker",
+    "version": "1",
+    "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiitracker/tokiitracker.bin"
+  },
+  {
+    "name": "TokiiWeather",
+    "id": "tokiiweather",
+    "version": "1",
+    "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiiweather/tokiiweather.bin"
+  },
+  {
+    "name": "TokiiAxeStats",
+    "id": "tokiiaxestats",
+    "version": "1",
+    "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiiaxestats/tokiiaxestats.bin"
+  }
+]
