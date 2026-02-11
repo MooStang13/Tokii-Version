@@ -22,5 +22,11 @@
     "id": "tokiiclock",
     "version": "1",
     "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiiclock/tokiiclock.bin"
+  },
+  {
+    "name": "Tokii4th (Login Required)",
+    "id": "tokii4th",
+    "version": "1",
+    "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokii4th/tokii4th.bin"
   }
 ]
