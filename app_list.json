@@ -40,5 +40,11 @@
     "id": "tokiitrash",
     "version": "1",
     "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiitrash/tokiitrash.bin"
+  },
+  {
+    "name": "TokiiSoloHash",
+    "id": "tokiisolohash",
+    "version": "1",
+    "bin_url": "https://raw.githubusercontent.com/MooStang13/Tokii-Version/main/apps/tokiisolohash/tokiisolohash.bin"
   }
 ]
